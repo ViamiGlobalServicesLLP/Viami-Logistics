@@ -284,7 +284,7 @@
     /* === PORTFOLIO */
     .work-description, .portfolio-full-description .work-thumbnail { margin-bottom:20px !important; }
     .work-skillsdate { position:static !important; margin-top:20px; }
-    .picture_overlay { margin-bottom:20px; display:inline-block; /* serve */ }
+    .picture_overlay { margin-bottom:0px; display:inline-block; /* serve */ }
     #portfolio.portfolio-slider li { float:left; width:220px; margin-right:20px !important; }
     .boxed #portfolio.detail .slide_detail { padding-left:0 !important; padding-right:0 !important; }
     #portfolio.columns li {clear:both;}
