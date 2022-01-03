@@ -71,6 +71,7 @@
 	position: absolute;
 	height: 170px;
 	cursor: pointer;
+	display: none;
 }
 
 .polaroid .thumbs img {
